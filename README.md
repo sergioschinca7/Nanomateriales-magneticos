@@ -1,7 +1,7 @@
 # Nanomateriales-magneticos
 Coloide compuesto por agua y nanopartículas de maghemita recubiertas con citrato.
-Relajacion del momento magnetico.
+Relajación del momento magnético.
 
-Componentes real e imaginaria de la susceptibilidad magnetica.
+Componentes real e imaginaria de la susceptibilidad magnética.
 
-Momento magnetico de la muestra envejecida.
+Momento magnético de la muestra envejecida.
